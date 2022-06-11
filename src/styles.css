@@ -1,0 +1,17 @@
+.App {
+  font-family: sans-serif;
+  text-align: center;
+}
+
+input {
+  width: 80%;
+  padding: 1rem;
+  border-radius: 0.5rem;
+  font-size: 4rem;
+}
+li {
+  list-style: none;
+}
+p {
+  color: rgb(155, 44, 247);
+}
